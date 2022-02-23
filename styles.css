@@ -1,6 +1,6 @@
 .title{
   font-family: Helvetica;
-  color: #000000;
+  color: rgb(99, 99, 99);
   text-align: center;
 }
 .tabContainer{
@@ -21,6 +21,7 @@
   font-family: Helvetica;
   font-size: 18px;
   background-color: #eee;
+  color: rgb(99, 99, 99)
 }
 .tabContainer .buttonContainer button:hover{
   background-color: #d7d4d4;
